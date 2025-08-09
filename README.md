@@ -26,5 +26,7 @@ Demonstrating practical skills in threat detection, incident response, and secur
 | 🔑 **Credential Access** | [Credential Access Project](https://github.com/YourUsername/Impact) | Scripts and techniques for obtaining account credentials from target systems, such as password dumping and keylogging. |
 
 
-This repository contains my applied solutions and exercises, showcasing my ability to translate cybersecurity concepts into efficient, functional Python code.
+
+
+- This repository contains my applied solutions and exercises, showcasing my ability to translate cybersecurity concepts into efficient, functional Python code.
 
