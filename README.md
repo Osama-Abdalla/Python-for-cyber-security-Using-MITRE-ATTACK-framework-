@@ -17,7 +17,7 @@ Demonstrating practical skills in threat detection, incident response, and secur
 
 | Stage | Repository Link | Description |
 |-------|-----------------|-------------|
-| 🔍 **Reconnaissance** | [Reconnaissance Project]( https://github.com/YourUsername/Reconnaissance](https://github.com/Osama-Abdalla/Python-for-cyber-security-Using-MITRE-ATTACK-framework-/blob/Reconnaissance/README.md ) | Scripts and tools for gathering information on target systems, networks, and organizations prior to an attack. |
+| 🔍 **Reconnaissance** | [Reconnaissance Project](https://github.com/Osama-Abdalla/Python-for-cyber-security-Using-MITRE-ATTACK-framework-/blob/Reconnaissance/README.md) | Scripts and tools for gathering information on target systems, networks, and organizations prior to an attack. |
 | 🎯 **Initial Access** | [Initial Access Project](https://github.com/YourUsername/Initial-Access) | Demonstrations of techniques used to gain an initial foothold in a target environment, such as phishing or exploiting public-facing applications. |
 | 💥 **Execution** | [Execution Project](https://github.com/YourUsername/Exploitation) | Python scripts and tools to execute malicious code on target systems once access is gained, including payload delivery and automation. |
 | 🔄 **Persistence** | [Persistence Project](https://github.com/YourUsername/Impact) | Methods for maintaining access to compromised systems, including startup scripts, scheduled tasks, and service modifications. |
